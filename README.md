@@ -1,0 +1,1 @@
+Hi i am Anıl Enes Torun. I am study Computer engineering in  Isparta Uygulamalı Bilimler Üniversitesi. I am developing  myself at .Net Core mvc and Java.I live in Istanbul. I like read books, watch films ad tv shows
