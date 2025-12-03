@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Anıl Enes Torun</h1>
-<h3 align="center">Computer Engineering student</h3>
+<h3 align="center">Computer Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniltorun24&label=Profile%20views&color=0e75b6&style=flat" alt="aniltorun24" /> </p>
 
